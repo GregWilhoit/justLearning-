@@ -1,1 +1,1 @@
-console.log("nigger");
+console.log("niggerLove");
