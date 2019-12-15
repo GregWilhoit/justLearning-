@@ -8,6 +8,13 @@ add - adds files to "staging area"
 status - checks files added to staging area
 rm --cached 'file name no quotes needed' [removes file from staging area
 add *.html (adds every html filetype, works with whatever filetype)
-add. (adds every file)
+add . (adds every file)
+
+there are 2 ways to commit: a not recommended "git commit", which takes you to 
+a vim page (where you hit "i" to edit, then "esc" and ":wq" at the bottom to submit
+
+the better way to commit and skip that edit page: 
+- git commit -m 'enter comment here'
+
 
 
