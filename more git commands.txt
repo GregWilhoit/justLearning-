@@ -1,0 +1,13 @@
+More GIT Commands:
+
+touch - adds files
+init - makes a folder a repository 
+config --global user.name 'x'  [adds name to repository]
+config --global user.email 'x' [adds email to repository]
+add - adds files to "staging area"
+status - checks files added to staging area
+rm --cached 'file name no quotes needed' [removes file from staging area
+add *.html (adds every html filetype, works with whatever filetype)
+add. (adds every file)
+
+
