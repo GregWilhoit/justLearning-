@@ -14,7 +14,8 @@ there are 2 ways to commit: a not recommended "git commit", which takes you to
 a vim page (where you hit "i" to edit, then "esc" and ":wq" at the bottom to submit
 
 the better way to commit and skip that edit page: 
-- git commit -m 'enter comment here'
+- git commit -m 'enter comment here' 
+
 
 
 
